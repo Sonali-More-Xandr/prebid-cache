@@ -2,8 +2,6 @@ module github.com/prebid/prebid-cache
 
 go 1.19
 
-
-
 require (
 	github.com/aerospike/aerospike-client-go/v6 v6.7.0
 	github.com/didip/tollbooth/v6 v6.1.2
